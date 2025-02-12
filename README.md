@@ -1,2 +1,2 @@
-# PA_python
-Material criado na aula de programação e algoritmos da ETEC MCM aprendendo python
+# Aula_FI
+Aulas de fundamentos da Informatica
